@@ -1,4 +1,4 @@
-# Hi!
+# Assalamu'alaikum BRO!
 My name is **Arshad Tareeq Buchori aka shadocho**.
 
 I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
