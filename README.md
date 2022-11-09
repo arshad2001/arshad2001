@@ -4,6 +4,7 @@ My name is **Arshad Tareeq Buchori aka shadocho**.
 I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
 
 If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/arshad-tareeq-buchori/) page.
+Also check me out on [Instagram](https://www.instagram.com/arshadtareeq/), and add me if you want! :3
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
