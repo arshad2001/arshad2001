@@ -1,5 +1,5 @@
 # Assalamu'alaikum BRO!
-My name is **Arshad Tareeq Buchori aka shadocho**.
+My name is **Arshad Tareeq Buchori aka shadocode**.
 
 I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
 
